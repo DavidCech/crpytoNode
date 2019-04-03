@@ -1,2 +1,0 @@
-# crpytoNode
-Created with CodeSandbox
